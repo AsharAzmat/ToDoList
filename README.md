@@ -4,4 +4,4 @@ ToDoList is an interactive check list which any user can use for scheduling thei
 
 https://agile-river-62046.herokuapp.com/<enter_your_name>
 
-It is a complete full-stack development project completed on node.js. It includes technologies such as HTML, CSS, JavaScript with a focus on MongoDB and ejs templates. MongoDB is utilized in conjunction with mongoose.js to use the database and store each users ToDoList. Using express.js and ejs templates, custom web pages and ToDoLists are created to provide each user their own unique list.
+It is a complete full-stack development project completed on node.js. It includes technologies such as HTML, CSS, JavaScript, and a variety of node.js frameworks. Specifically, a special focus on MongoDB and ejs templates. MongoDB is utilized in conjunction with mongoose.js to use the database and store each users ToDoList. Using express.js and ejs templates, custom web pages and ToDoLists are created to provide each user their own unique list.
